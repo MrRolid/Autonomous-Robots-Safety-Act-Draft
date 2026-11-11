@@ -7,7 +7,7 @@ A model statute for discussion, not tied to any jurisdiction. Its premise: the c
 
 ## Disclaimer
 
-This text is not a bill before any parliament, not legal advice and not the work of a lawyer. It was written by a layperson as a thought experiment in the form of a statute. No court, regulator or legal professional has reviewed it.
+This text is not a bill before any parliament, not legal advice and not the work of a lawyer. It was written by a layperson as a thought experiment in the form of a statute. No court, regulator or legal professional has reviewed it. AI-assisted text.
 
 It exists because of a concern. Societies tend to regulate a technology only after its first public disaster, and laws written in the weeks after a disaster are usually rushed, driven by fear and shaped by whoever lobbies fastest. Robots with autonomous AI will reach homes, streets, hospitals and laboratories within the working life of people alive today. The debate about who answers for them should happen before the first serious incident, in calm conditions, and in public.
 
